@@ -1,0 +1,5 @@
+com\stocktracker\ReportService.class
+com\stocktracker\Stock.class
+com\stocktracker\PriceFetcher.class
+com\stocktracker\Main.class
+com\stocktracker\PortfolioManager.class
